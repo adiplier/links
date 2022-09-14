@@ -1,5 +1,5 @@
 # links
-Contains links for the different things I have worked on work and otherwise
+Contains links for the different things I have worked on official and otherwise
 
 IBM AWS Partnership Site:-
 https://ibm-aws-alliance.mybluemix.net/index.html
