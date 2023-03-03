@@ -9,3 +9,9 @@ Contains links for the different things I have worked on official and otherwise
 
 [**Alorca Clothing**](https://www.alorcaclothing.com/) 
 >Consultation regading the optimization of the website was provided to Alorca Clothing
+
+[**An RNG Game Based on Midtown Madness**](https://raw.githack.com/adiplier/MM2_RNG_Game/main/index.html) 
+>An RNG Game Based on Midtown Madness
+
+[**Easy Whatsapp Chat**](https://rawcdn.githack.com/adiplier/EasyWhatsAppChat/0f737c931aa1f41580400a98908a689d0bea8429/Go_to_WhatsApp_chat.html) 
+>Allows you to whatsapp chat without making a new contact
