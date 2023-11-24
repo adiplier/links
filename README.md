@@ -12,3 +12,6 @@ Contains links for the different things I have worked on official and otherwise
 
 [**Easy Whatsapp Chat**](https://rawcdn.githack.com/adiplier/EasyWhatsAppChat/0f737c931aa1f41580400a98908a689d0bea8429/Go_to_WhatsApp_chat.html) 
 >Allows you to whatsapp chat without making a new contact
+
+[**Laundry Wallet Optimization Calculator**](https://rawcdn.githack.com/adiplier/assorted-logic-bits/2c9a42a39adc3edd4c816ffd4473525674a97612/Laundry_cash_calc/index.html) 
+>Allows you to optimize every last dollar from your laundry wallet
